@@ -7,13 +7,15 @@ h1{
     color: rgb(160, 83, 12);
     
 }
-#fron-image{
+#front-image{
     padding: 20px;
     margin: 10px;
+    
 }
 img{
     width: 400px;
     height: auto;
+    
 }
 a{
     text-decoration: none;
