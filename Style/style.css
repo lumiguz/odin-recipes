@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(255, 244, 230);
+    font-family: 'Ubuntu' sans-serif;
+    text-align: center;
+}
+h1{
+    color: rgb(160, 83, 12);
+    
+}
+#fron-image{
+    padding: 20px;
+    margin: 10px;
+}
+img{
+    width: 400px;
+    height: auto;
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid rgb(160, 83, 12);
+    background-color: rgb(255, 255, 255);
+    color: rgb(18, 114, 114);
+}
+a:hover{
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(160, 83, 12);
+    color: rgb(255, 255, 255);
+}
